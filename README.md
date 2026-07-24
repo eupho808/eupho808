@@ -66,7 +66,7 @@ I take the Duolingo English Test by default and switch to IELTS/TOEFL only when 
 
 ## Get in Touch
 
-- [Personal Website](https://eupho808.github.io) — *coming soon*
+- [Personal Website](https://eupho808.github.io) — live
 - [LinkedIn](https://linkedin.com/in/eupho808) — *coming soon*
 - Email: *available on request*
 
