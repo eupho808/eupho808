@@ -5,7 +5,7 @@
 I am a 17-year-old product builder from Russia. I do not write code by hand — I identify problems, design solutions, and use AI as my primary implementation tool.
 
 - [Personal Website](https://eupho808.github.io)
-- [Personal Brand Bible](https://github.com/eupho808/personal-brand-bible)
+- [Personal Operating Manual](https://github.com/eupho808/personal-brand-bible)
 
 ---
 
@@ -77,4 +77,4 @@ I take the Duolingo English Test by default and switch to IELTS/TOEFL only when 
 
 ---
 
-*This profile is part of a deliberate digital ecosystem. See the full system in my [Personal Brand Bible](https://github.com/eupho808/personal-brand-bible).*
+*This profile is part of a deliberate digital ecosystem. See the full system in my [Personal Operating Manual](https://github.com/eupho808/personal-brand-bible).*
